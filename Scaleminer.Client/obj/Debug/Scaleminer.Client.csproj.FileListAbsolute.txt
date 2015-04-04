@@ -1,0 +1,8 @@
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Scaleminer.Client\bin\Debug\Scaleminer.Client.dll
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Scaleminer.Client\bin\Debug\Scaleminer.Client.pdb
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Scaleminer.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Scaleminer.Client\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Scaleminer.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Scaleminer.Client\obj\Debug\Scaleminer.Client.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Scaleminer.Client\obj\Debug\Scaleminer.Client.dll
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Scaleminer.Client\obj\Debug\Scaleminer.Client.pdb

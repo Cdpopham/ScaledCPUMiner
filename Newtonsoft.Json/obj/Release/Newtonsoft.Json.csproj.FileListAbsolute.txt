@@ -1,0 +1,6 @@
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\bin\Release\Net\Newtonsoft.Json.xml
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\bin\Release\Net\Newtonsoft.Json.dll
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\bin\Release\Net\Newtonsoft.Json.pdb
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\obj\Release\Newtonsoft.Json.csprojResolveAssemblyReference.cache
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\obj\Release\Newtonsoft.Json.dll
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\obj\Release\Newtonsoft.Json.pdb

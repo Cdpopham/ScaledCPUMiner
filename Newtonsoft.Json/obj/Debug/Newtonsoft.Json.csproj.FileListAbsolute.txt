@@ -1,0 +1,13 @@
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.xml
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.dll
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.pdb
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.dll.CodeAnalysisLog.xml
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.dll.lastcodeanalysissucceeded
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.csprojResolveAssemblyReference.cache
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.dll
+C:\Users\tuomas\Downloads\bitnet-code-2\bitnet-code-2\trunk\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.pdb
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.dll
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Newtonsoft.Json\bin\Debug\Net\Newtonsoft.Json.pdb
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.dll
+C:\Users\Cody\Documents\Scalable_CPU_BTC_Miner\Newtonsoft.Json\obj\Debug\Newtonsoft.Json.pdb
